@@ -1,0 +1,401 @@
+<ReplaceList>
+  <WholeWords>
+    <Word from="isOdyssey" to="is Odyssey" />
+    <Word from="HAHA" to="HA HA" />
+    <Word from="FORTEALC" to="FOR TEAL'C" />
+    <Word from="O'NEILLS" to="O'NEILL'S" />
+    <Word from="ITIS" to="IT IS" />
+    <Word from="IWOULD" to="I WOULD" />
+    <Word from="BACKTO" to="BACK TO" />
+    <Word from="5G" to="SG" />
+    <Word from="ITURNED" to="I TURNED" />
+    <Word from="TEALC" to="TEAL'C" />
+    <Word from="TH|S" to="THIS" />
+    <Word from="CHAPPA'AL" to="CHAPPA'AI" />
+    <Word from="SHOL'VATEALC" to="SHOL'VA TEALC" />
+    <Word from="JAFFATEALC" to="JAFFA TEAL'C" />
+    <Word from="SOTHE" to="SO THE" />
+    <Word from="THANKYOU" to="THANK YOU" />
+    <Word from="O'NEILLIS" to="O'NEILL IS" />
+    <Word from="ITWON'T" to="IT WON'T" />
+    <Word from="ATACTIC" to="A TACTIC" />
+    <Word from="O'NEILLWILL" to="O'NEILL WILL" />
+    <Word from="DALLASIS" to="DALLAS IS" />
+    <Word from="ORWE" to="OR WE" />
+    <Word from="TOTHIS" to="TO THIS" />
+    <Word from="BACKTHROUGH" to="BACK THROUGH" />
+    <Word from="KELNOR'REEM" to="KEL'NOR'REEM" />
+    <Word from="COLMAH" to="COL'MAH" />
+    <Word from="ATHING" to="A THING" />
+    <Word from="AMTHE" to="AM THE" />
+    <Word from="ISWITH" to="IS WITH" />
+    <Word from="AVISION" to="A VISION" />
+    <Word from="TELLMAH" to="TELL'MAH" />
+    <Word from="ATECHNOLOGY" to="A TECHNOLOGY" />
+    <Word from="IWENT" to="I WENT" />
+    <Word from="ATEAM" to="A TEAM" />
+    <Word from="ATIME" to="A TIME" />
+    <Word from="FIXIT" to="FIX IT" />
+    <Word from="THEYCOULDN'T" to="THEY COULDN’T" />
+    <Word from="SOTHIS" to="SO THIS" />
+    <Word from="SCHAKKAIS" to="SCHAKKA IS" />
+    <Word from="KAMEANS" to="KA MEANS" />
+    <Word from="NANIS" to="NAN IS" />
+    <Word from="NECKPIECE" to="NECK PIECE" />
+    <Word from="UAYV" to="UAV" />
+    <Word from="FAC2ADE" to="FACADE" />
+    <Word from="DIGTOO" to="DIG TOO" />
+    <Word from="SOGOING" to="SO GOING" />
+    <Word from="LASTRITE" to="LAST RITE" />
+    <Word from="KEKTAL" to="KEK TAL" />
+    <Word from="DOWITH" to="DO WITH" />
+    <Word from="FORYOU" to="FOR YOU" />
+    <Word from="HEWERE" to="HE WERE" />
+    <Word from="TOTELL" to="TO TELL" />
+    <Word from="GETTO" to="GET TO" />
+    <Word from="TEALC'S" to="TEAL'C'S" />
+    <Word from="ORTO" to="OR TO" />
+    <Word from="THINKIT'S" to="THINK IT’S" />
+    <Word from="CA4" to="C4" />
+    <Word from="NOWCAN" to="NOW CAN" />
+    <Word from="OURSELVESCLEAR" to="OURSELVES CLEAR" />
+    <Word from="FORIT" to="FOR IT" />
+    <Word from="ENTRANCEWAY" to="ENTRANCE WAY" />
+    <Word from="ITEST" to="I TEST" />
+    <Word from="IRISLIKE" to="IRIS LIKE" />
+    <Word from="SIMILARTO" to="SIMILAR TO" />
+    <Word from="SENTTHE" to="SENT THE" />
+    <Word from="ORTHEY" to="OR THEY" />
+    <Word from="ASKYOU" to="ASK YOU" />
+    <Word from="TALKTO" to="TALK TO" />
+    <Word from="JUSTTO" to="JUST TO" />
+    <Word from="|" to="I" />
+    <Word from="CALLTHE" to="CALL THE" />
+    <Word from="JOLENAR" to="JOLINAR" />
+    <Word from="ITWOULD" to="IT WOULD" />
+    <Word from="ITHINK" to="I THINK" />
+    <Word from="ITTO" to="IT TO" />
+    <Word from="ATWORMHOLE" to="AT WORMHOLE" />
+    <Word from="FORTHE" to="FOR THE" />
+    <Word from="AWASTE" to="A WASTE" />
+    <Word from="ITWOULDN'T" to="IT WOULDN’T" />
+    <Word from="TEAL'CIS" to="TEAL'C IS" />
+    <Word from="AREYOU" to="ARE YOU" />
+    <Word from="BASECAMP" to="BASE CAMP" />
+    <Word from="ASKTHE" to="ASK THE" />
+    <Word from="FORTWO" to="FOR TWO" />
+    <Word from="APPEARTO" to="APPEAR TO" />
+    <Word from="MEWITH" to="ME WITH" />
+    <Word from="HIMIN" to="HIM IN" />
+    <Word from="ISTEALC" to="IS TEAL'C" />
+    <Word from="11S" to="1 IS" />
+    <Word from="ONSTARGATE" to="ON STARGATE" />
+    <Word from="PROMETHEUSIS" to="PROMETHEUS IS" />
+    <Word from="TRANSPORTSEBRUS" to="TRANSPORT SEBRUS" />
+    <Word from="TEALCIS" to="TEAL'C IS" />
+    <Word from="ALPHASITE" to="ALPHA SITE" />
+    <Word from="theSeberus" to="the Seberus" />
+    <Word from="P55117" to="P5S 117" />
+    <Word from="P551177" to="P5S 117" />
+    <Word from="theSeberusis" to="the Seberus is" />
+    <Word from="TheSeberusis" to="The Seberus is" />
+    <Word from="S5G" to="SG" />
+    <Word from="Odysseywas" to="Odyssey was" />
+    <Word from="Odysseyis" to="Odyssey is" />
+    <Word from="Odysseyfound" to="Odyssey found" />
+    <Word from="Odysseyhas" to="Odyssey has" />
+    <Word from="theOdyssey" to="the Odyssey" />
+    <Word from="Iooo" to="I..." />
+    <Word from="dialled" to="dialed" />
+    <Word from="nagahdah" to="naquadah" />
+    <Word from="pretechnological" to="pre-echnological" />
+    <Word from="haematoma" to="hematoma" />
+    <Word from="nagahdah's" to="naquadah's" />
+    <Word from="JumperBay" to="Jumper Bay" />
+    <Word from="Daedalusgets" to="Daedalus gets" />
+    <Word from="theDaedalus" to="the Daedalus" />
+    <Word from="Daedalusis" to="Daedalus is" />
+    <Word from="MCcKAY" to="McKAY" />
+    <Word from="railguns" to="rail guns" />
+    <Word from="railgun" to="rail gun" />
+    <Word from="Daedalussystem" to="Daedalus system" />
+    <Word from="Daedalusback" to="Daedalus back" />
+    <Word from="Daedaluswas" to="Daedalus was" />
+    <Word from="Aurorahas" to="Aurora has" />
+    <Word from="Daedalusstill" to="Daedalus still" />
+    <Word from="Daedalusreturns" to="Daedalus returns" />
+    <Word from="Auroraself" to="Aurora self" />
+    <Word from="Daedalushas" to="Daedalus has" />
+    <Word from="Daedalushadn't" to="Daedalus hadn’t" />
+    <Word from="HICCUPPING" to="HICCUPING" />
+    <Word from="Daedalusland" to="Daedalus land" />
+    <Word from="Daedaluscan't" to="Daedalus can’t" />
+    <Word from="8is" to="8 is" />
+    <Word from="8has" to="8 has" />
+    <Word from="Daedalustakes" to="Daedalus takes" />
+    <Word from="Orionnow" to="Orion now" />
+    <Word from="Daedaluscan" to="Daedalus can" />
+    <Word from="Orionas" to="Orion as" />
+    <Word from="isDaedalus" to="is Daedalus" />
+    <Word from="Orionbreak" to="Orion break" />
+    <Word from="Daedalusout" to="Daedalus out" />
+    <Word from="Jumperand" to="Jumper and" />
+    <Word from="Daedalusand" to="Daedalus and" />
+    <Word from="Orionhas" to="Orion has" />
+    <Word from="Jumperis" to="Jumper is" />
+    <Word from="3has" to="3 has" />
+    <Word from="Daedalusto" to="Daedalus to" />
+    <Word from="Daedaluswill" to="Daedalus will" />
+    <Word from="Daedalusleaves" to="Daedalus leaves" />
+    <Word from="Jumperup" to="Jumper up" />
+    <Word from="Jumperbay" to="Jumper bay" />
+    <Word from="Daedalusinfirmary" to="Daedalus infirmary" />
+    <Word from="Daedaluswon't" to="Daedalus won’t" />
+    <Word from="Daedalusarrives" to="Daedalus arrives" />
+    <Word from="Daedalusbeams" to="Daedalus beams" />
+    <Word from="Daedaluson" to="Daedalus on" />
+    <Word from="Daedalushere" to="Daedalus here" />
+    <Word from="Apollo'sgoing" to="Apollo’s going" />
+    <Word from="etcetera" to="et cetera" />
+    <Word from="Apolloout" to="Apollo out" />
+    <Word from="Daedalushave" to="Daedalus have" />
+    <Word from="naquahdah" to="naquadah" />
+    <Word from="10A" to="IOA" />
+    <Word from="Daedalusconfirms" to="Daedalus confirms" />
+    <Word from="Daedalusshows" to="Daedalus shows" />
+    <Word from="TheDaedalus" to="The Daedalus" />
+    <Word from="Daedalusdropped" to="Daedalus dropped" />
+    <Word from="Railgun" to="Rail gun" />
+    <Word from="Daedalusbeaming" to="Daedalus beaming" />
+    <Word from="Daedalusthing" to="Daedalus thing" />
+    <Word from="Daedalusisn't" to="Daedalus isn’t" />
+    <Word from="Daedalusvia" to="Daedalus via" />
+    <Word from="Daedalusdid" to="Daedalus did" />
+    <Word from="Apollois" to="Apollo is" />
+    <Word from="Daedalusare" to="Daedalus are" />
+    <Word from="H20" to="H2O" />
+    <Word from="Destinyoff" to="Destiny off" />
+    <Word from="Destinyis" to="Destiny is" />
+    <Word from="Destinydown" to="Destiny down" />
+    <Word from="Destinyused" to="Destiny used" />
+    <Word from="Destinywas" to="Destiny was" />
+    <Word from="Destiny'scourse" to="Destiny’s course" />
+    <Word from="Destiny'sdatabase" to="Destiny’s database" />
+    <Word from="Destinyand" to="Destiny and" />
+    <Word from="Destiny'ssomething" to="Destiny’s something" />
+    <Word from="Destinyto" to="Destiny to" />
+    <Word from="Destinywent" to="Destiny went" />
+    <Word from="Destiny'sin" to="Destiny’s in" />
+    <Word from="Destinyor" to="Destiny or" />
+    <Word from="Destinywill" to="Destiny will" />
+    <Word from="dialDestiny" to="dial Destiny" />
+    <Word from="Destinyhad" to="Destiny had" />
+    <Word from="Destinycame" to="Destiny came" />
+    <Word from="thechaapa'ai" to="the chaapa'ai" />
+    <Word from="symbiant" to="symbiont" />
+    <Word from="hisPrim'ta" to="his Prim'ta" />
+    <Word from="NAQUITA" to="NAQUADAH" />
+    <Word from="RAGNOROCK" to="RAGNAROK" />
+    <Word from="MEINFATHER" to="MEIN FATHER" />
+    <Word from="TheDestiny" to="The Destiny" />
+    <Word from="Destiny'smission" to="Destiny’s mission" />
+    <Word from="Destiny'smaster" to="Destiny’s master" />
+    <Word from="Destinyuncovers" to="Destiny uncovers" />
+    <Word from="Destiny'sway" to="Destiny’s way" />
+    <Word from="Destiny'sairlock" to="Destiny’s airlock" />
+    <Word from="Destinycan" to="Destiny can" />
+    <Word from="Destinyhas" to="Destiny has" />
+    <Word from="Destiny'saddress" to="Destiny’s address" />
+    <Word from="Destiny'smemory" to="Destiny’s memory" />
+    <Word from="Destiny'sreal" to="Destiny’s real" />
+    <Word from="Destiny'screw" to="Destiny’s crew" />
+    <Word from="Destiny'slifeline" to="Destiny’s lifeline" />
+    <Word from="Destiny'sdecided" to="Destiny’s decided" />
+    <Word from="Destiny'skind" to="Destiny’s kind" />
+    <Word from="Destiny'sreturn" to="Destiny’s return" />
+    <Word from="Destinyrecharges" to="Destiny recharges" />
+    <Word from="Destinyin" to="Destiny in" />
+    <Word from="Destiny'stechnology" to="Destiny’s technology" />
+    <Word from="Destiny'slocked" to="Destiny’s locked" />
+    <Word from="Destiny'sclosed" to="Destiny’s closed" />
+    <Word from="Destiny'stried" to="Destiny’s tried" />
+    <Word from="Destinyat" to="Destiny at" />
+    <Word from="Destiny'smedical" to="Destiny’s medical" />
+    <Word from="Destiny'snormal" to="Destiny’s normal" />
+    <Word from="Destiny'spath" to="Destiny’s path" />
+    <Word from="ASGUARD" to="ASGARD" />
+    <Word from="ASGUARDS" to="ASGARDS" />
+    <Word from="ISTHE" to="IS THE" />
+    <Word from="CHAPP'Al" to="CHAPP'AI" />
+    <Word from="THINKYOUR" to="THINK YOUR" />
+    <Word from="LYNNEA" to="LINNEA" />
+    <Word from="LYNNEA'S" to="LINNEA'S" />
+    <Word from="BYNARR" to="BYNAR" />
+    <Word from="BYNARR'S" to="BYNAR'S" />
+    <Word from="SNAKEHEADS" to="SNAKE HEADS" />
+    <Word from="TEALCWOULD" to="TEAL'C WOULD" />
+    <Word from="OPTRICIAN" to="OPTRICAN" />
+    <Word from="OPTRICIANS" to="OPTRICANS" />
+    <Word from="THEBELISKNOR" to="THE BELISKNOR" />
+    <Word from="OPTRICIA" to="OPTRICA" />
+    <Word from="I’'m" to="I'm" />
+    <Word from="1t" to="It" />
+    <Word from="ISTEAL'C" to="IS TEAL'C" />
+    <Word from="CGl" to="CGI" />
+    <Word from="BIRDCALL" to="BIRD CALL" />
+    <Word from="llecom" to="Ilecom" />
+    <Word from="Daystrum" to="Daystrom" />
+    <Word from="jyutsu" to="jujutsu" />
+    <Word from="Alifs" to="Atifs" />
+    <Word from="pahtk" to="p'takh" />
+    <Word from="capitan" to="capitán" />
+    <Word from="Barell" to="Bareil" />
+    <Word from="pahtak" to="petaQ" />
+    <Word from="ja'chugq" to="ja'chuq" />
+    <Word from="|I" to="II" />
+    <Word from="lll" to="III" />
+    <Word from="dilitthium" to="dilithium" />
+    <Word from="PICKARD" to="PICARD" />
+    <Word from="fagade" to="façade" />
+    <Word from="tricoder" to="tricorder" />
+    <Word from="Il" to="II" />
+    <Word from="WHORF" to="WORF" />
+    <Word from="invertor" to="inverter" />
+    <Word from="wilfully" to="willfully" />
+    <Word from="Counsellor" to="Counselor" />
+    <Word from="kneepads" to="knee pads" />
+    <Word from="masonite" to="Masonite" />
+    <Word from="déja" to="déjà" />
+    <Word from="mudbaths" to="mud baths" />
+    <Word from="mudbath" to="mud bath" />
+    <Word from="Elysées" to="Élysées" />
+    <Word from="rarified" to="rarefied" />
+    <Word from="guerilla" to="guerrilla" />
+    <Word from="Kahn" to="Khan" />
+    <Word from="Jeffries" to="Jefferies" />
+    <Word from="lyaaran" to="Iyaaran" />
+    <Word from="Maqui" to="Maquis" />
+    <Word from="lyar" to="Iyar" />
+    <Word from="lyaarans" to="Iyaarans" />
+    <Word from="ltis" to="lt is" />
+    <Word from="WOREF" to="WORF" />
+    <Word from="brainstem" to="brain stem" />
+    <Word from="hiccupping" to="hiccuping" />
+    <Word from="N/fio" to="Niño" />
+    <Word from="N/'fio" to="Niño" />
+    <Word from="Voyagerand" to="Voyager and" />
+    <Word from="galankhkai" to="qalankhkai" />
+    <Word from="fo" to="to" />
+    <Word from="Déja" to="Déjà" />
+    <Word from="7he" to="The" />
+    <Word from="panelling" to="paneling" />
+    <Word from="ot" to="♪" />
+    <Word from="Jedlis" to="Jedis" />
+    <Word from="Jedls" to="Jedis" />
+    <Word from="Mund/I" to="Mundi" />
+    <Word from="Beeps|" to="Beeps" />
+    <Word from="lan" to="Ian" />
+    <Word from="technigue" to="technique" />
+    <Word from="Wwoorr" to="Woorr" />
+    <Word from="Feeeee" to="Eeeeee" />
+    <Word from="|edi" to="Jedi" />
+    <Word from="Jaqg" to="Jaq" />
+    <Word from="neutralise" to="neutralize" />
+    <Word from="LLE" to="I.E" />
+    <Word from="rancour" to="rancor" />
+    <Word from="honour's" to="honor’s" />
+    <Word from="unauthorised" to="unauthorized" />
+    <Word from="fibres" to="fibers" />
+    <Word from="ILE" to="I.E" />
+    <Word from="grey" to="gray" />
+    <Word from="Defence" to="Defense" />
+    <Word from="weaponised" to="weaponized" />
+    <Word from="compartmentalised" to="compartmentalized" />
+    <Word from="honoured" to="honored" />
+    <Word from="favours" to="favors" />
+    <Word from="colourful" to="colorful" />
+    <Word from="Konigstrasse" to="Königstrasse" />
+    <Word from="Tromsg" to="Tromsø" />
+    <Word from="travelling" to="traveling" />
+    <Word from="demeanour" to="demeanor" />
+    <Word from="Dishonourable" to="Dishonorable" />
+    <Word from="realises" to="realizes" />
+    <Word from="civilisation" to="civilization" />
+    <Word from="colour" to="color" />
+    <Word from="theatres" to="theaters" />
+    <Word from="humourless" to="humorless" />
+    <Word from="marvellous" to="marvelous" />
+    <Word from="humour" to="humor" />
+    <Word from="fuelling" to="fueling" />
+    <Word from="humour's" to="humor’s" />
+    <Word from="fulfil" to="fulfill" />
+    <Word from="recognises" to="recognizes" />
+    <Word from="sceptre" to="scepter" />
+    <Word from="defence" to="defense" />
+    <Word from="analysing" to="analyzing" />
+    <Word from="hypnotise" to="hypnotize" />
+    <Word from="omelette" to="omelet" />
+    <Word from="sterilise" to="sterilize" />
+    <Word from="vaporise" to="vaporize" />
+    <Word from="saviour" to="savior" />
+    <Word from="colouring" to="coloring" />
+    <Word from="licence" to="license" />
+    <Word from="spectre" to="specter" />
+    <Word from="storeys" to="stories" />
+    <Word from="emphasise" to="emphasize" />
+    <Word from="pummelled" to="pummeled" />
+    <Word from="civilised" to="civilized" />
+    <Word from="internalise" to="internalize" />
+    <Word from="reorganising" to="reorganizing" />
+    <Word from="recolour" to="recolor" />
+    <Word from="immortalised" to="immortalized" />
+    <Word from="centrepiece" to="centerpiece" />
+    <Word from="Sanitise" to="Sanitize" />
+    <Word from="rumours" to="rumors" />
+    <Word from="specialised" to="specialized" />
+    <Word from="millimetres" to="millimeters" />
+    <Word from="practise" to="practice" />
+    <Word from="pressurise" to="pressurize" />
+    <Word from="authorisation" to="authorization" />
+    <Word from="practising" to="practicing" />
+    <Word from="Pefia" to="Peña" />
+    <Word from="Pefia's" to="Peña's" />
+    <Word from="recognisable" to="recognizable" />
+    <Word from="Peria" to="Peña" />
+    <Word from="fulfiiment" to="fulfillment" />
+    <Word from="gruelling" to="grueling" />
+    <Word from="fulfilment" to="fulfillment" />
+    <Word from="utilised" to="utilized" />
+    <Word from="acknowledgement" to="acknowledgment" />
+    <Word from="practised" to="practiced" />
+    <Word from="organisation" to="organization" />
+    <Word from="destabilise" to="destabilize" />
+    <Word from="fibre" to="fiber" />
+    <Word from="Elienne" to="Etienne" />
+    <Word from="paralysed" to="paralyzed" />
+    <Word from="Paralysed" to="Paralyzed" />
+    <Word from="Visualise" to="Visualize" />
+    <Word from="parlour" to="parlor" />
+    <Word from="sceptical" to="skeptical" />
+    <Word from="channelling" to="channeling" />
+    <Word from="calibre" to="caliber" />
+    <Word from="apologising" to="apologizing" />
+    <Word from="realisation" to="realization" />
+  </WholeWords>
+  <PartialLines />
+  <BeginLines />
+  <EndLines />
+  <WholeLines>
+    <Line from="SH EISH!" to="SHEISH!" />
+    <Line from="MM M." to="MMM." />
+    <Line from="MM M." to="MMM." />
+    <Line from="I'm&#xD;&#xA;S&#xD;&#xA;O&#xD;&#xA;rry&#xD;&#xA;?" to="I'm sorry?" />
+  </WholeLines>
+  <RegularExpressions />
+  <RemovedWholeWords />
+  <RemovedPartialLines />
+  <RemovedBeginLines />
+  <RemovedEndLines />
+  <RemovedWholeLines />
+  <RemovedRegularExpressions />
+</ReplaceList>
