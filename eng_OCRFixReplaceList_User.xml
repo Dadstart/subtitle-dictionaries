@@ -322,15 +322,20 @@
     <Word from="colourful" to="colorful" />
     <Word from="coloured" to="colored" />
     <Word from="CLAMOURING" to="CLAMORING" />
+    <Word from="harbour" to="harbor" />
+    <Word from="honoured" to="honored" />
+    <Word from="apologising" to="apologizing" />
+    <Word from="defence" to="defense" />
+    <Word from="realisation" to="realization" />
+    <Word from="fulfil" to="fulfill" />
+    <Word from="YODELLING" to="YODELING" />
+    <Word from="vaporise" to="vaporize" />
+    <Word from="rumouir" to="rumor" />
   </WholeWords>
   <PartialLines />
   <BeginLines />
   <EndLines />
   <WholeLines>
-    <Line from="SH EISH!" to="SHEISH!" />
-    <Line from="MM M." to="MMM." />
-    <Line from="MM M." to="MMM." />
-    <Line from="I'm&#xD;&#xA;S&#xD;&#xA;O&#xD;&#xA;rry&#xD;&#xA;?" to="I'm sorry?" />
   </WholeLines>
   <RegularExpressions />
   <RemovedWholeWords />
