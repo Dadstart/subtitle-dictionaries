@@ -331,6 +331,8 @@
     <Word from="YODELLING" to="YODELING" />
     <Word from="vaporise" to="vaporize" />
     <Word from="rumouir" to="rumor" />
+    <Word from="remodelling" to="remodeling" />
+    <Word from="rumour" to="rumor" />
   </WholeWords>
   <PartialLines />
   <BeginLines />
