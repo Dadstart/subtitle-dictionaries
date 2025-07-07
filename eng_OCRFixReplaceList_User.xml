@@ -343,6 +343,37 @@
     <Word from="pyjamas" to="pajamas" />
     <Word from="organise" to="organize" />
     <Word from="colouring" to="coloring" />
+    <Word from="Defence" to="Defense" />
+    <Word from="artefacts" to="artifacts" />
+    <Word from="T'Cha||a" to="T'Challa" />
+    <Word from="programmes" to="programs" />
+    <Word from="artefact" to="artifact" />
+    <Word from="Wakanda®" to="Wakanda" />
+    <Word from="LABOURED" to="LABORED" />
+    <Word from="stabilise" to="stabilize" />
+    <Word from="radicalised" to="radicalized" />
+    <Word from="coloniser" to="colonizer" />
+    <Word from="colonisers" to="colonizers" />
+    <Word from="destabilise" to="destabilize" />
+    <Word from="hoverbike" to="hover bike" />
+    <Word from="hoverbikes" to="hover bikes" />
+    <Word from="colonisation" to="colonization" />
+    <Word from="colonised" to="colonized" />
+    <Word from="Colour" to="Color" />
+    <Word from="Basselt" to="Bassett" />
+    <Word from="amphitheatre" to="amphitheater" />
+    <Word from="symbolising" to="symbolizing" />
+    <Word from="Symbolising" to="Symbolizing" />
+    <Word from="Géransson" to="Göransson" />
+    <Word from="counselling" to="counseling" />
+    <Word from="storey" to="story" />
+    <Word from="realises" to="realizes" />
+    <Word from="realising" to="realizing" />
+    <Word from="travelling" to="traveling" />
+    <Word from="mould" to="mold" />
+    <Word from="favours" to="favors" />
+    <Word from="stabiliser" to="stabilizer" />
+    <Word from="verbalising" to="verbalizing" />
   </WholeWords>
   <PartialLines />
   <BeginLines />
