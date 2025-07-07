@@ -333,6 +333,16 @@
     <Word from="rumouir" to="rumor" />
     <Word from="remodelling" to="remodeling" />
     <Word from="rumour" to="rumor" />
+    <Word from="VOCALISING" to="VOCALIZING" />
+    <Word from="saviour" to="savior" />
+    <Word from="organising" to="organizing" />
+    <Word from="jeopardise" to="jeopardize" />
+    <Word from="smouldering" to="smoldering" />
+    <Word from="civilisations" to="civilizations" />
+    <Word from="synthesisers" to="synthesizers" />
+    <Word from="pyjamas" to="pajamas" />
+    <Word from="organise" to="organize" />
+    <Word from="colouring" to="coloring" />
   </WholeWords>
   <PartialLines />
   <BeginLines />
