@@ -374,6 +374,17 @@
     <Word from="favours" to="favors" />
     <Word from="stabiliser" to="stabilizer" />
     <Word from="verbalising" to="verbalizing" />
+    <Word from="fibres" to="fibers" />
+    <Word from="defences" to="defenses" />
+    <Word from="DelLeeuw" to="DeLeeuw" />
+    <Word from="stylised" to="stylized" />
+    <Word from="theatres" to="theaters" />
+    <Word from="recognisability" to="recognizability" />
+    <Word from="Fiinke" to="Fünke" />
+    <Word from="belaboured" to="belabored" />
+    <Word from="maximise" to="maximize" />
+    <Word from="tantalising" to="tantalizing" />
+    <Word from="serialised" to="serialized" />
   </WholeWords>
   <PartialLines />
   <BeginLines />
