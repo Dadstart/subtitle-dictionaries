@@ -408,6 +408,12 @@
     <Word from="actualisation" to="actualization" />
     <Word from="sterilise" to="sterilize" />
     <Word from="omelette" to="omelet" />
+    <Word from="internalise" to="internalize" />
+    <Word from="manoeuvring" to="maneuvering" />
+    <Word from="utilise" to="utilize" />
+    <Word from="manoeuvre" to="maneuver" />
+    <Word from="galvanising" to="galvanizing" />
+    <Word from="moulds" to="molds" />
   </WholeWords>
   <PartialLines />
   <BeginLines />
