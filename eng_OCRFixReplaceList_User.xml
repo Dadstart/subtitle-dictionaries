@@ -414,6 +414,10 @@
     <Word from="manoeuvre" to="maneuver" />
     <Word from="galvanising" to="galvanizing" />
     <Word from="moulds" to="molds" />
+    <Word from="untrammelled" to="untrammeled" />
+    <Word from="Pifia" to="Piña" />
+    <Word from="moulding" to="molding" />
+    <Word from="Kyin" to="Kyln" />
   </WholeWords>
   <PartialLines />
   <BeginLines />
