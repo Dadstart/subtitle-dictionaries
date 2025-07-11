@@ -385,6 +385,29 @@
     <Word from="maximise" to="maximize" />
     <Word from="tantalising" to="tantalizing" />
     <Word from="serialised" to="serialized" />
+    <Word from="Ohn" to="Oh" />
+    <Word from="jadios" to="¡adios" />
+    <Word from="Adiés" to="Adiós" />
+    <Word from="LLE" to="I.E" />
+    <Word from="Humour" to="Humor" />
+    <Word from="civilisation" to="civilization" />
+    <Word from="MIAOWS" to="MEOWS" />
+    <Word from="Fraternising" to="Fraternizing" />
+    <Word from="kerb" to="curb" />
+    <Word from="manoeuvres" to="maneuvers" />
+    <Word from="recognisable" to="recognizable" />
+    <Word from="traveller" to="traveler" />
+    <Word from="visualised" to="visualized" />
+    <Word from="sceptre" to="scepter" />
+    <Word from="organisation" to="organization" />
+    <Word from="channelling" to="channeling" />
+    <Word from="dimensionalises" to="dimensionalizes" />
+    <Word from="fulfilment" to="fulfillment" />
+    <Word from="fibre" to="fiber" />
+    <Word from="honouring" to="honoring" />
+    <Word from="actualisation" to="actualization" />
+    <Word from="sterilise" to="sterilize" />
+    <Word from="omelette" to="omelet" />
   </WholeWords>
   <PartialLines />
   <BeginLines />

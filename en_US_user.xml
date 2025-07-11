@@ -484,6 +484,7 @@
   <word>carb</word>
   <word>carbamazepine</word>
   <word>carbonite</word>
+  <word>carbs</word>
   <word>cardassians</word>
   <word>cardial</word>
   <word>cardio</word>
@@ -574,6 +575,7 @@
   <word>chrondite</word>
   <word>chroniton</word>
   <word>chronitons</word>
+  <word>chronoshift</word>
   <word>chronotonic</word>
   <word>chrysimite</word>
   <word>chu</word>
@@ -723,6 +725,7 @@
   <word>decloak</word>
   <word>decloaked</word>
   <word>decloaking</word>
+  <word>decomp</word>
   <word>decompiler</word>
   <word>decompressive</word>
   <word>decon</word>
@@ -839,6 +842,7 @@
   <word>dynascans</word>
   <word>dyno</word>
   <word>dysphoria</word>
+  <word>dysrhythmia</word>
   <word>dystopia</word>
   <word>dystopian</word>
   <word>e</word>
@@ -1005,6 +1009,7 @@
   <word>ferreti</word>
   <word>ferretti</word>
   <word>ferro</word>
+  <word>ferrofluid</word>
   <word>fibrogenic</word>
   <word>fide</word>
   <word>fierenze</word>
@@ -1246,6 +1251,7 @@
   <word>healey</word>
   <word>hearted</word>
   <word>heartedly</word>
+  <word>heartedness</word>
   <word>hebephrenic</word>
   <word>hebridan</word>
   <word>hebridan's</word>
@@ -2070,6 +2076,7 @@
   <word>nanites</word>
   <word>nanite's</word>
   <word>nano</word>
+  <word>nanobyte</word>
   <word>nanocells</word>
   <word>nanocyte</word>
   <word>nanocytes</word>
@@ -2230,6 +2237,7 @@
   <word>octagonally</word>
   <word>octares</word>
   <word>octonary</word>
+  <word>octopi</word>
   <word>odai</word>
   <word>odn</word>
   <word>offlanders</word>
@@ -2460,7 +2468,9 @@
   <word>plotline</word>
   <word>ploughed</word>
   <word>plunkett</word>
+  <word>pluripotent</word>
   <word>plutoids</word>
+  <word>po'boy</word>
   <word>pocus</word>
   <word>pointin</word>
   <word>poladum</word>
@@ -2562,6 +2572,7 @@
   <word>radim</word>
   <word>radner</word>
   <word>rafha</word>
+  <word>rageful</word>
   <word>rahw</word>
   <word>rak</word>
   <word>rakai</word>
@@ -2731,6 +2742,7 @@
   <word>rrrrr</word>
   <word>rsa</word>
   <word>rudnell</word>
+  <word>ruly</word>
   <word>rundell</word>
   <word>rusha</word>
   <word>ruslan</word>
@@ -2779,6 +2791,7 @@
   <word>satterfield's</word>
   <word>savin</word>
   <word>schakka</word>
+  <word>schooler</word>
   <word>scienced</word>
   <word>scoopy</word>
   <word>scot</word>
@@ -2841,6 +2854,7 @@
   <word>shanahan</word>
   <word>shang</word>
   <word>shapeshifter</word>
+  <word>shapeshifters</word>
   <word>shaq'rel</word>
   <word>sha're</word>
   <word>sha're's</word>
@@ -2848,6 +2862,7 @@
   <word>shau'nac</word>
   <word>shaun'auc</word>
   <word>shavadai</word>
+  <word>shawarma</word>
   <word>shawarmas</word>
   <word>shee</word>
   <word>sheesh</word>
@@ -2889,6 +2904,7 @@
   <word>shyla</word>
   <word>siler</word>
   <word>siler's</word>
+  <word>sim</word>
   <word>simeon</word>
   <word>sina</word>
   <word>sincha</word>
@@ -3377,6 +3393,7 @@
   <word>unlivably</word>
   <word>unlocalized</word>
   <word>unmarry</word>
+  <word>unmoored</word>
   <word>unneighborly</word>
   <word>unpowered</word>
   <word>unsalvageable</word>
@@ -3527,6 +3544,7 @@
   <word>wh</word>
   <word>wha</word>
   <word>whacko</word>
+  <word>whassup</word>
   <word>whatcha</word>
   <word>whatever's</word>
   <word>whining's</word>
@@ -3589,6 +3607,7 @@
   <word>yoo</word>
   <word>yorke</word>
   <word>you'd've</word>
+  <word>yowzers</word>
   <word>yu</word>
   <word>yu's</word>
   <word>z</word>
