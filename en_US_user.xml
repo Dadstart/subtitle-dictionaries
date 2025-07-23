@@ -179,6 +179,7 @@
   <word>archmage</word>
   <word>archon</word>
   <word>archons</word>
+  <word>archrival</word>
   <word>arclight</word>
   <word>ardal</word>
   <word>ardena</word>
@@ -316,6 +317,7 @@
   <word>beardo</word>
   <word>bedrosia</word>
   <word>bedrosian</word>
+  <word>beggin</word>
   <word>beh</word>
   <word>bein</word>
   <word>belaklavion</word>
@@ -339,6 +341,7 @@
   <word>betazoid</word>
   <word>betazoids</word>
   <word>bet'cha</word>
+  <word>bffs</word>
   <word>bicaridine</word>
   <word>bided</word>
   <word>bilenium</word>
@@ -390,6 +393,7 @@
   <word>bolaa</word>
   <word>bon</word>
   <word>bona</word>
+  <word>bono</word>
   <word>bonzo</word>
   <word>boop</word>
   <word>boppin</word>
@@ -679,6 +683,8 @@
   <word>cryosleep</word>
   <word>cryosleeper's</word>
   <word>cryptocurrency</word>
+  <word>cryptograph</word>
+  <word>cryptologist</word>
   <word>cryptonym</word>
   <word>crystilia</word>
   <word>csis</word>
@@ -751,6 +757,7 @@
   <word>del'mor</word>
   <word>delorean</word>
   <word>delorium</word>
+  <word>deltoid</word>
   <word>demag</word>
   <word>demagnify</word>
   <word>demolecularization</word>
@@ -968,6 +975,7 @@
   <word>expectedly</word>
   <word>explainer</word>
   <word>explainers</word>
+  <word>exposé</word>
   <word>expositional</word>
   <word>expositionally</word>
   <word>extricator</word>
@@ -1003,6 +1011,7 @@
   <word>felger's</word>
   <word>felicium</word>
   <word>fema</word>
+  <word>fembots</word>
   <word>fenri</word>
   <word>ferassin</word>
   <word>ferengi</word>
@@ -1277,6 +1286,7 @@
   <word>hemi</word>
   <word>hendon</word>
   <word>hendon's</word>
+  <word>henhouse</word>
   <word>herak</word>
   <word>her'ak</word>
   <word>heren</word>
@@ -1925,8 +1935,10 @@
   <word>mckenzie's</word>
   <word>mcmurray</word>
   <word>mcnab</word>
+  <word>medevacked</word>
   <word>medkit</word>
   <word>medlab</word>
+  <word>megadose</word>
   <word>megadoses</word>
   <word>meh</word>
   <word>mehra</word>
@@ -1995,6 +2007,7 @@
   <word>misdialed</word>
   <word>misdirective</word>
   <word>misperception</word>
+  <word>missy</word>
   <word>mitchell's</word>
   <word>mitigator</word>
   <word>mitzvah</word>
@@ -2046,6 +2059,7 @@
   <word>muirios</word>
   <word>multi</word>
   <word>multicelled</word>
+  <word>multigrain</word>
   <word>multileveled</word>
   <word>multimodal</word>
   <word>multiphasic</word>
@@ -2404,6 +2418,7 @@
   <word>parthus</word>
   <word>particalized</word>
   <word>particleized</word>
+  <word>passé</word>
   <word>pattinson</word>
   <word>paynan</word>
   <word>pb2</word>
@@ -2442,6 +2457,7 @@
   <word>phaser's</word>
   <word>philippos</word>
   <word>phoebus</word>
+  <word>photoelectron</word>
   <word>photonic</word>
   <word>photorealism</word>
   <word>photosensitivity</word>
@@ -2453,6 +2469,7 @@
   <word>picards</word>
   <word>picard's</word>
   <word>pictograms</word>
+  <word>pictography</word>
   <word>piggly</word>
   <word>pikta</word>
   <word>pilation</word>
@@ -2467,6 +2484,7 @@
   <word>planetscape</word>
   <word>plasmic</word>
   <word>playa</word>
+  <word>playin</word>
   <word>plestorene</word>
   <word>plex</word>
   <word>plotline</word>
@@ -2599,6 +2617,8 @@
   <word>raspily</word>
   <word>ratira</word>
   <word>raully</word>
+  <word>rayed</word>
+  <word>raying</word>
   <word>rayner</word>
   <word>reassimilated</word>
   <word>reawoken</word>
@@ -2634,6 +2654,7 @@
   <word>reinception</word>
   <word>reinitiate</word>
   <word>reinitiates</word>
+  <word>reinitiating</word>
   <word>reinstill</word>
   <word>reinverted</word>
   <word>rejectable</word>
@@ -2848,6 +2869,7 @@
   <word>sha</word>
   <word>shak</word>
   <word>shaki</word>
+  <word>shakin</word>
   <word>shak'l</word>
   <word>shak'ran</word>
   <word>shak'ran's</word>
@@ -2968,6 +2990,7 @@
   <word>speakin</word>
   <word>spectograph</word>
   <word>spectrally</word>
+  <word>spectrocity</word>
   <word>spectrographic</word>
   <word>speedo</word>
   <word>spelunk</word>
@@ -3345,6 +3368,7 @@
   <word>turghan</word>
   <word>turkanese</word>
   <word>tuttleroot</word>
+  <word>twistedly</word>
   <word>tyman</word>
   <word>tynan</word>
   <word>tynan's</word>
