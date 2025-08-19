@@ -424,11 +424,36 @@
     <Word from="frienemy" to="frenemy" />
     <Word from="practise" to="practice" />
     <Word from="caesars" to="Caesars" />
+    <Word from="§" to="♪" />
+    <Word from="ond" to="on ♪" />
+    <Word from="Nifio" to="Niño" />
   </WholeWords>
   <PartialLines />
   <BeginLines />
   <EndLines />
   <WholeLines>
+    <Line from="S Come on, I've been waiting for you J" to="♪ Come on, I've been waiting for you ♪" />
+    <Line from="&lt;i&gt;§ To stay with me ?&lt;/i&gt;" to="&lt;i&gt;♪ To stay with me ♪&lt;/i&gt;" />
+    <Line from="&lt;i&gt;§ Stay, stay $&lt;/i&gt;" to="&lt;i&gt;♪ Stay, stay ♪&lt;/i&gt;" />
+    <Line from="S Come ond" to="♪ Come on ♪" />
+    <Line from="&lt;i&gt;§ Stay, stay $&lt;/i&gt;" to="&lt;i&gt;♪ Stay, stay ♪&lt;/i&gt;" />
+    <Line from="&lt;i&gt;§ To stay with me ?&lt;/i&gt;" to="&lt;i&gt;♪ To stay with me ♪&lt;/i&gt;" />
+    <Line from="&lt;i&gt;§ Stay, stay $&lt;/i&gt;" to="&lt;i&gt;♪ Stay, stay ♪&lt;/i&gt;" />
+    <Line from="S Come ond" to="♪ Come on ♪" />
+    <Line from="S Shaking your fist, yeah... J" to="♪ Shaking your fist, yeah... ♪" />
+    <Line from="&lt;i&gt;§ Flick the bird to the world, yeah&lt;/i&gt;" to="&lt;i&gt;♪ Flick the bird to the world, yeah ♪&lt;/i&gt;" />
+    <Line from="J &quot;Cause the world is your plan F" to="♪ 'Cause the world is your plan ♪" />
+    <Line from="&lt;i&gt;3 Or seein' what I see &amp;&lt;/i&gt;" to="&lt;i&gt;♪ Or seein' what I see ♪&lt;/i&gt;" />
+    <Line from="S Come on, I've been waiting for you J" to="♪ Come on, I've been waiting for you ♪" />
+    <Line from="&lt;i&gt;§ To stay with me ?&lt;/i&gt;" to="&lt;i&gt;♪ To stay with me ♪&lt;/i&gt;" />
+    <Line from="&lt;i&gt;§ Stay, stay $&lt;/i&gt;" to="&lt;i&gt;♪ Stay, stay ♪&lt;/i&gt;" />
+    <Line from="S Come ond" to="♪ Come on ♪" />
+    <Line from="S Come on, I've been waiting for you J" to="♪ Come on, I've been waiting for you ♪" />
+    <Line from="&lt;i&gt;§ To stay with me ?&lt;/i&gt;" to="&lt;i&gt;♪ To stay with me ♪&lt;/i&gt;" />
+    <Line from="&lt;i&gt;§ Stay, stay $&lt;/i&gt;" to="&lt;i&gt;♪ Stay, stay ♪&lt;/i&gt;" />
+    <Line from="S Come ond" to="♪ Come on ♪" />
+    <Line from="S Come on, I've been waiting for you J" to="♪ Come on, I've been waiting for you ♪" />
+    <Line from="g Qur time has come&#xD;&#xA;Set it off I" to="♪ Our time has come&#xD;&#xA;Set it off ♪" />
   </WholeLines>
   <RegularExpressions />
   <RemovedWholeWords />
