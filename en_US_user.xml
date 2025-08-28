@@ -61,6 +61,7 @@
   <word>abydonians</word>
   <word>abydos</word>
   <word>acastus</word>
+  <word>accio</word>
   <word>acetylcholine</word>
   <word>achet</word>
   <word>acl</word>
@@ -87,6 +88,7 @@
   <word>agenting</word>
   <word>ageria</word>
   <word>agh</word>
+  <word>aguamenti</word>
   <word>ahhh</word>
   <word>ahhhhh</word>
   <word>ai</word>
@@ -97,6 +99,7 @@
   <word>al</word>
   <word>alaraph</word>
   <word>alaris</word>
+  <word>alarte</word>
   <word>aldwin</word>
   <word>alebran</word>
   <word>aleck</word>
@@ -151,6 +154,7 @@
   <word>anhur</word>
   <word>ani</word>
   <word>animalistic</word>
+  <word>animatable</word>
   <word>animatic</word>
   <word>animatics</word>
   <word>animatronic</word>
@@ -170,13 +174,17 @@
   <word>anxiolytics</word>
   <word>anyone'll</word>
   <word>anywhere's</word>
+  <word>aperio</word>
   <word>apis</word>
   <word>apophis</word>
   <word>apophis's</word>
   <word>apoxia</word>
+  <word>apparate</word>
+  <word>apparated</word>
   <word>a'quel</word>
   <word>ara</word>
   <word>aragatan</word>
+  <word>arania</word>
   <word>archaeology</word>
   <word>archeva</word>
   <word>archmage</word>
@@ -188,6 +196,7 @@
   <word>ardena</word>
   <word>aree</word>
   <word>arek</word>
+  <word>aresto</word>
   <word>arg</word>
   <word>argh</word>
   <word>argosians</word>
@@ -203,6 +212,7 @@
   <word>armin</word>
   <word>aroden</word>
   <word>arom</word>
+  <word>arresto</word>
   <word>arrom</word>
   <word>arrr</word>
   <word>arrrr</word>
@@ -214,6 +224,8 @@
   <word>artok</word>
   <word>artok's</word>
   <word>aru'ur</word>
+  <word>ascendare</word>
+  <word>ascendio</word>
   <word>ascendometer</word>
   <word>aschen</word>
   <word>aschens</word>
@@ -234,6 +246,7 @@
   <word>asteroidal</word>
   <word>astor's</word>
   <word>astria</word>
+  <word>astro</word>
   <word>astrobiologists</word>
   <word>astrobiology</word>
   <word>astrocytoma</word>
@@ -272,6 +285,7 @@
   <word>aurelianus</word>
   <word>autodestruct</word>
   <word>autosequencers</word>
+  <word>avada</word>
   <word>avedonian</word>
   <word>avernikas</word>
   <word>aviaphobia</word>
@@ -303,6 +317,7 @@
   <word>balera</word>
   <word>balic</word>
   <word>balinsky</word>
+  <word>banthas</word>
   <word>bantos</word>
   <word>baranski</word>
   <word>baras</word>
@@ -349,6 +364,7 @@
   <word>betazoids</word>
   <word>bet'cha</word>
   <word>bezoar</word>
+  <word>bezoars</word>
   <word>bffs</word>
   <word>bicaridine</word>
   <word>bided</word>
@@ -403,10 +419,14 @@
   <word>bocher</word>
   <word>boch's</word>
   <word>bodies's</word>
+  <word>boggart</word>
+  <word>boggarts</word>
   <word>bolaa</word>
+  <word>bombarda</word>
   <word>bon</word>
   <word>bona</word>
   <word>bono</word>
+  <word>bonsoir</word>
   <word>bonzo</word>
   <word>boop</word>
   <word>boppin</word>
@@ -426,6 +446,7 @@
   <word>bp6</word>
   <word>braai</word>
   <word>brachioradialis</word>
+  <word>brackium</word>
   <word>brainer</word>
   <word>brainiac</word>
   <word>brainiacs</word>
@@ -465,6 +486,7 @@
   <word>burrock</word>
   <word>bussard</word>
   <word>buyin</word>
+  <word>buzzy</word>
   <word>bynar</word>
   <word>bynar's</word>
   <word>byrsa</word>
@@ -587,6 +609,8 @@
   <word>chimichangas</word>
   <word>ching</word>
   <word>chipotle</word>
+  <word>chlorian</word>
+  <word>chlorians</word>
   <word>chlorinide</word>
   <word>chlorohydrate</word>
   <word>chloromydride</word>
@@ -657,6 +681,8 @@
   <word>coms</word>
   <word>comtraya</word>
   <word>conflux</word>
+  <word>confringo</word>
+  <word>confundus</word>
   <word>conn</word>
   <word>conrad's</word>
   <word>contegia</word>
@@ -703,7 +729,10 @@
   <word>crenulations</word>
   <word>crewmates</word>
   <word>cronos</word>
+  <word>cropdusting</word>
   <word>croya</word>
+  <word>cruciatus</word>
+  <word>crucio</word>
   <word>cruvus</word>
   <word>cryin</word>
   <word>crying's</word>
@@ -743,6 +772,7 @@
   <word>dakara</word>
   <word>damnest</word>
   <word>danaan</word>
+  <word>dancy</word>
   <word>dan'el</word>
   <word>dannic</word>
   <word>dannic's</word>
@@ -754,6 +784,7 @@
   <word>darkside</word>
   <word>darseks</word>
   <word>dashkewytch</word>
+  <word>dataries</word>
   <word>data's</word>
   <word>davos</word>
   <word>dawg</word>
@@ -761,6 +792,7 @@
   <word>deacceleration</word>
   <word>dealy</word>
   <word>debrided</word>
+  <word>deckers</word>
   <word>decloak</word>
   <word>decloaked</word>
   <word>decloaking</word>
@@ -778,6 +810,7 @@
   <word>defib</word>
   <word>defibbing</word>
   <word>defibrillate</word>
+  <word>defocus</word>
   <word>defocused</word>
   <word>degrasse</word>
   <word>deja</word>
@@ -793,6 +826,8 @@
   <word>deltoid</word>
   <word>demag</word>
   <word>demagnify</word>
+  <word>dementor</word>
+  <word>dementors</word>
   <word>demolecularization</word>
   <word>demolecularized</word>
   <word>demolecularizes</word>
@@ -816,6 +851,7 @@
   <word>detronal</word>
   <word>devlin</word>
   <word>devlin's</word>
+  <word>dewbacks</word>
   <word>dexalin</word>
   <word>dhd</word>
   <word>dhds</word>
@@ -826,15 +862,20 @@
   <word>dicking</word>
   <word>diem</word>
   <word>diencephalic</word>
+  <word>diffindo</word>
   <word>diffractors</word>
   <word>dilithium</word>
   <word>dimas</word>
+  <word>dimbo</word>
   <word>diminishment</word>
+  <word>dioxis</word>
+  <word>disapparated</word>
   <word>disassembly</word>
   <word>discommendation</word>
   <word>disfigurations</word>
   <word>disintegrators</word>
   <word>disrupters</word>
+  <word>dissendium</word>
   <word>diverter</word>
   <word>diverters</word>
   <word>djembes</word>
@@ -865,6 +906,7 @@
   <word>drey'auc</word>
   <word>dreylock</word>
   <word>drinkin</word>
+  <word>droidekas</word>
   <word>dronie</word>
   <word>drs</word>
   <word>druhin</word>
@@ -881,6 +923,7 @@
   <word>duotronic</word>
   <word>dura</word>
   <word>duranium</word>
+  <word>duri</word>
   <word>duritanium</word>
   <word>duru</word>
   <word>dwarves</word>
@@ -918,6 +961,7 @@
   <word>eggar</word>
   <word>eggar's</word>
   <word>egoo</word>
+  <word>ehh</word>
   <word>eiromischa</word>
   <word>eisen</word>
   <word>either/or</word>
@@ -935,6 +979,7 @@
   <word>else's</word>
   <word>elson</word>
   <word>elwynn</word>
+  <word>emendo</word>
   <word>emh</word>
   <word>emiristol</word>
   <word>emmagan</word>
@@ -951,6 +996,7 @@
   <word>enchuri</word>
   <word>endocarditis</word>
   <word>endoskeletal</word>
+  <word>engorgio</word>
   <word>enkaran</word>
   <word>enkarans</word>
   <word>enquiring</word>
@@ -962,6 +1008,8 @@
   <word>entwinement</word>
   <word>enwrap</word>
   <word>enzymic</word>
+  <word>eopie</word>
+  <word>eopies</word>
   <word>epi</word>
   <word>eppi</word>
   <word>eppi's</word>
@@ -988,9 +1036,11 @@
   <word>eval</word>
   <word>evalla</word>
   <word>evals</word>
+  <word>evanesca</word>
   <word>evanov</word>
   <word>evanov's</word>
   <word>evel</word>
+  <word>everte</word>
   <word>everything'll</word>
   <word>evolvement</word>
   <word>ew</word>
@@ -1014,13 +1064,17 @@
   <word>exospheric</word>
   <word>exothermal</word>
   <word>expectedly</word>
+  <word>expecto</word>
+  <word>expelliarmus</word>
   <word>explainer</word>
   <word>explainers</word>
   <word>exposé</word>
   <word>expositional</word>
   <word>expositionally</word>
+  <word>expulso</word>
   <word>extricator</word>
   <word>extubate</word>
+  <word>exumai</word>
   <word>eyu</word>
   <word>f</word>
   <word>fabricius</word>
@@ -1036,6 +1090,7 @@
   <word>failsafes</word>
   <word>fakery</word>
   <word>fallatus</word>
+  <word>falumpasets</word>
   <word>fam</word>
   <word>fanboyed</word>
   <word>fandom</word>
@@ -1065,6 +1120,7 @@
   <word>ferro</word>
   <word>ferrofluid</word>
   <word>fiancé's</word>
+  <word>fianto</word>
   <word>fibrogenic</word>
   <word>fide</word>
   <word>fierenze</word>
@@ -1082,6 +1138,7 @@
   <word>flemming's</word>
   <word>flexors</word>
   <word>floatiness</word>
+  <word>flobberworm</word>
   <word>flowy</word>
   <word>fluidic</word>
   <word>fluorescer</word>
@@ -1099,6 +1156,7 @@
   <word>forthum's</word>
   <word>fortnum</word>
   <word>fortum</word>
+  <word>fortuna</word>
   <word>fractionater</word>
   <word>fraiser</word>
   <word>fraiser's</word>
@@ -1157,6 +1215,7 @@
   <word>gdo</word>
   <word>geeked</word>
   <word>geldar</word>
+  <word>gemino</word>
   <word>genetronic</word>
   <word>genetronics</word>
   <word>geniusly</word>
@@ -1177,6 +1236,7 @@
   <word>gigawatts</word>
   <word>gik'tal</word>
   <word>gilbride</word>
+  <word>gillyweed</word>
   <word>gilmor</word>
   <word>gimbal</word>
   <word>gimballed</word>
@@ -1288,6 +1348,7 @@
   <word>harcesis</word>
   <word>hardpan</word>
   <word>harek</word>
+  <word>harmonia</word>
   <word>harrid</word>
   <word>harriman</word>
   <word>harsesis</word>
@@ -1340,6 +1401,7 @@
   <word>henhouse</word>
   <word>herak</word>
   <word>her'ak</word>
+  <word>herbologists</word>
   <word>herbology</word>
   <word>heren</word>
   <word>herew</word>
@@ -1353,12 +1415,15 @@
   <word>heru'ur's</word>
   <word>h'eta</word>
   <word>hewston</word>
+  <word>hexia</word>
   <word>heya</word>
   <word>hic</word>
   <word>hikaru</word>
   <word>hinky</word>
+  <word>hinkypunks</word>
   <word>hippaforalkus</word>
   <word>hippocampus</word>
+  <word>hippogriff</word>
   <word>hira</word>
   <word>hirschfeld</word>
   <word>histaminic</word>
@@ -1390,13 +1455,16 @@
   <word>holovillain</word>
   <word>holyfield</word>
   <word>homebrew</word>
+  <word>homenum</word>
   <word>homeworlds</word>
   <word>homeworld's</word>
   <word>homie</word>
   <word>honkin</word>
   <word>honorless</word>
   <word>hoo</word>
+  <word>hoofbeats</word>
   <word>hopin</word>
+  <word>horcruxes</word>
   <word>horga'hn</word>
   <word>hoth</word>
   <word>hoverball</word>
@@ -1438,26 +1506,34 @@
   <word>ideation</word>
   <word>idos</word>
   <word>iff</word>
+  <word>ignotus</word>
   <word>iliac</word>
   <word>illa</word>
   <word>illuminatory</word>
   <word>ilm</word>
   <word>imager</word>
+  <word>immobulus</word>
   <word>immunitech</word>
   <word>immunoresistant</word>
   <word>immunosuppressant</word>
   <word>impactful</word>
+  <word>imperio</word>
+  <word>imperius</word>
   <word>improv</word>
   <word>imzadi</word>
   <word>inago</word>
   <word>inaprovaline</word>
   <word>incandiferous</word>
+  <word>incantatem</word>
+  <word>incarcerous</word>
+  <word>incendio</word>
   <word>incirlik</word>
   <word>incursus</word>
   <word>indeeo</word>
   <word>indisctinctly</word>
   <word>infinitas</word>
   <word>inflamarae</word>
+  <word>inimicum</word>
   <word>injectable</word>
   <word>inman</word>
   <word>inman's</word>
@@ -1480,6 +1556,7 @@
   <word>interfacers</word>
   <word>interfleet</word>
   <word>intergalactically</word>
+  <word>intermesh</word>
   <word>internanite</word>
   <word>interphasic</word>
   <word>interplexing</word>
@@ -1512,6 +1589,7 @@
   <word>isopalavial</word>
   <word>isozyme</word>
   <word>itsy</word>
+  <word>itty</word>
   <word>ja'chuq</word>
   <word>jaffas</word>
   <word>jaffa's</word>
@@ -1538,6 +1616,7 @@
   <word>jervis</word>
   <word>jevonite</word>
   <word>jibbaran</word>
+  <word>jiggy</word>
   <word>jinaq</word>
   <word>jinto</word>
   <word>joe's</word>
@@ -1555,6 +1634,7 @@
   <word>juvie</word>
   <word>k</word>
   <word>ka</word>
+  <word>kaadus</word>
   <word>kada</word>
   <word>kagan</word>
   <word>kagan's</word>
@@ -1603,6 +1683,7 @@
   <word>ke</word>
   <word>kearney</word>
   <word>keb</word>
+  <word>kedavra</word>
   <word>kedion</word>
   <word>keenin</word>
   <word>keffler</word>
@@ -1750,6 +1831,7 @@
   <word>krueger</word>
   <word>krystovski</word>
   <word>ks7</word>
+  <word>ksars</word>
   <word>k'tano</word>
   <word>k'tano's</word>
   <word>k'tau</word>
@@ -1807,9 +1889,11 @@
   <word>lazairians</word>
   <word>learnt</word>
   <word>leed</word>
+  <word>legilimens</word>
   <word>lenticular</word>
   <word>leonids</word>
   <word>leporazine</word>
+  <word>levicorpus</word>
   <word>leviosa</word>
   <word>lhc</word>
   <word>lifesigns</word>
@@ -1836,6 +1920,7 @@
   <word>locatia</word>
   <word>lochus</word>
   <word>lockdowns</word>
+  <word>locomotor</word>
   <word>locutus</word>
   <word>loden</word>
   <word>loder</word>
@@ -1859,6 +1944,7 @@
   <word>lotta</word>
   <word>lougheed</word>
   <word>lowel</word>
+  <word>lumos</word>
   <word>lumsbred</word>
   <word>lumus</word>
   <word>luvetric</word>
@@ -1999,6 +2085,7 @@
   <word>mcmurray</word>
   <word>mcnab</word>
   <word>mea</word>
+  <word>medevac</word>
   <word>medevacing</word>
   <word>medevacked</word>
   <word>medkit</word>
@@ -2022,13 +2109,16 @@
   <word>mer</word>
   <word>merc</word>
   <word>merch</word>
+  <word>merci</word>
   <word>merculite</word>
   <word>merell</word>
   <word>meronat</word>
+  <word>merpeople</word>
   <word>merrin</word>
   <word>merrin's</word>
   <word>mer's</word>
   <word>mesostasis</word>
+  <word>messengered</word>
   <word>metadermal</word>
   <word>metagenic</word>
   <word>metagenics</word>
@@ -2079,6 +2169,7 @@
   <word>misdirective</word>
   <word>misperception</word>
   <word>missy</word>
+  <word>mistuned</word>
   <word>mitchell's</word>
   <word>mitigator</word>
   <word>mitzvah</word>
@@ -2116,18 +2207,23 @@
   <word>mornin</word>
   <word>morrigan</word>
   <word>morrigan's</word>
+  <word>morsmordre</word>
   <word>mortis</word>
   <word>motherfuck</word>
   <word>mothership</word>
   <word>mothership's</word>
   <word>motobilum</word>
+  <word>motts</word>
   <word>moughal</word>
   <word>moustache</word>
   <word>movin</word>
+  <word>mown</word>
   <word>mox</word>
   <word>mp3</word>
   <word>mp5</word>
   <word>mres</word>
+  <word>muffliato</word>
+  <word>muggletum</word>
   <word>mughal</word>
   <word>muirios</word>
   <word>multi</word>
@@ -2136,6 +2232,7 @@
   <word>multileveled</word>
   <word>multimodal</word>
   <word>multiphasic</word>
+  <word>multiplatinum</word>
   <word>multiverse</word>
   <word>mumbo</word>
   <word>mundus</word>
@@ -2203,6 +2300,7 @@
   <word>ncc</word>
   <word>ne</word>
   <word>necrotizing</word>
+  <word>nectere</word>
   <word>neera</word>
   <word>neeva</word>
   <word>neeva's</word>
@@ -2315,6 +2413,9 @@
   <word>nullifier</word>
   <word>nullifiers</word>
   <word>numo</word>
+  <word>numpties</word>
+  <word>numpty</word>
+  <word>nunas</word>
   <word>nutsack</word>
   <word>nx</word>
   <word>nya</word>
@@ -2326,6 +2427,7 @@
   <word>o</word>
   <word>oberoth</word>
   <word>oberoth's</word>
+  <word>obliviate</word>
   <word>ochre</word>
   <word>ocotal</word>
   <word>octagonally</word>
@@ -2377,6 +2479,7 @@
   <word>ooooh</word>
   <word>oop</word>
   <word>oopsie</word>
+  <word>opee</word>
   <word>opporozine</word>
   <word>opposable</word>
   <word>optican</word>
@@ -2402,6 +2505,7 @@
   <word>otherworld</word>
   <word>otho</word>
   <word>outbrained</word>
+  <word>outlander</word>
   <word>outmanned</word>
   <word>ovarium</word>
   <word>ovariums</word>
@@ -2499,12 +2603,17 @@
   <word>parthus</word>
   <word>particalized</word>
   <word>particleized</word>
+  <word>partis</word>
   <word>passé</word>
+  <word>passus</word>
+  <word>patronum</word>
+  <word>patronus</word>
   <word>pattinson</word>
   <word>paynan</word>
   <word>pb2</word>
   <word>pcr</word>
   <word>pecca</word>
+  <word>peko</word>
   <word>pelius</word>
   <word>peloponnesus</word>
   <word>pelops</word>
@@ -2519,6 +2628,7 @@
   <word>penhall</word>
   <word>pepito</word>
   <word>percivale</word>
+  <word>periculum</word>
   <word>peridaxon</word>
   <word>peridot</word>
   <word>perna</word>
@@ -2526,10 +2636,13 @@
   <word>pernaux</word>
   <word>perps</word>
   <word>per'sus</word>
+  <word>peskipiksi</word>
+  <word>pesternomi</word>
   <word>petaq</word>
   <word>petri</word>
   <word>petrificus</word>
   <word>petrus</word>
+  <word>peverell</word>
   <word>pfft</word>
   <word>ph</word>
   <word>pharrin</word>
@@ -2552,6 +2665,7 @@
   <word>picard's</word>
   <word>pictograms</word>
   <word>pictography</word>
+  <word>piertotum</word>
   <word>piggly</word>
   <word>pikta</word>
   <word>pilation</word>
@@ -2572,12 +2686,17 @@
   <word>plestorene</word>
   <word>plex</word>
   <word>plotline</word>
+  <word>plotwise</word>
   <word>ploughed</word>
   <word>plunkett</word>
   <word>pluripotent</word>
   <word>plutoids</word>
   <word>po'boy</word>
   <word>pocus</word>
+  <word>podrace</word>
+  <word>podracer</word>
+  <word>podracers</word>
+  <word>podracing</word>
   <word>pointin</word>
   <word>poladum</word>
   <word>polarimeter</word>
@@ -2617,19 +2736,25 @@
   <word>premotor</word>
   <word>prenum</word>
   <word>preordered</word>
+  <word>preplan</word>
   <word>preprocessors</word>
   <word>preproduction</word>
   <word>preprogrammed</word>
+  <word>prerelease</word>
   <word>prerunners</word>
   <word>presidio</word>
+  <word>previsualization</word>
   <word>previz</word>
+  <word>prewritten</word>
   <word>primidone</word>
   <word>primta</word>
   <word>prim'ta</word>
+  <word>priori</word>
   <word>probie</word>
   <word>proculis</word>
   <word>prophylactically</word>
   <word>propmaster</word>
+  <word>protego</word>
   <word>psilosynine</word>
   <word>psionic</word>
   <word>psychotectic</word>
@@ -2637,6 +2762,7 @@
   <word>psychotropically</word>
   <word>pumpin</word>
   <word>punked</word>
+  <word>puppeteering</word>
   <word>puum</word>
   <word>pwarw</word>
   <word>px1</word>
@@ -2718,6 +2844,7 @@
   <word>recloaked</word>
   <word>recomposite</word>
   <word>redridge</word>
+  <word>reducto</word>
   <word>ree</word>
   <word>reemer</word>
   <word>reenable</word>
@@ -2744,6 +2871,7 @@
   <word>reinstill</word>
   <word>reinverted</word>
   <word>rejectable</word>
+  <word>relashio</word>
   <word>relatable</word>
   <word>reliquefy</word>
   <word>relocations</word>
@@ -2765,6 +2893,8 @@
   <word>reol</word>
   <word>reole</word>
   <word>reparo</word>
+  <word>repello</word>
+  <word>repellum</word>
   <word>rephase</word>
   <word>rephased</word>
   <word>replicant</word>
@@ -2806,6 +2936,7 @@
   <word>revana</word>
   <word>revanna</word>
   <word>revanna's</word>
+  <word>revelio</word>
   <word>reverb</word>
   <word>revoir</word>
   <word>rewatch</word>
@@ -2817,6 +2948,8 @@
   <word>rhinal</word>
   <word>ribocyatic</word>
   <word>ribosome</word>
+  <word>rictusempra</word>
+  <word>riddikulus</word>
   <word>ridgeback</word>
   <word>rieder</word>
   <word>rigar</word>
@@ -2843,6 +2976,7 @@
   <word>ro'nak</word>
   <word>ronon</word>
   <word>ronon's</word>
+  <word>rontos</word>
   <word>roos</word>
   <word>rophiapgisy</word>
   <word>roshna</word>
@@ -2850,6 +2984,9 @@
   <word>rotator</word>
   <word>rothman</word>
   <word>rothman's</word>
+  <word>roto</word>
+  <word>rotoing</word>
+  <word>rotoscoped</word>
   <word>rotoscoping</word>
   <word>rovak</word>
   <word>rpg</word>
@@ -2881,7 +3018,10 @@
   <word>saliency</word>
   <word>salieri</word>
   <word>salieris</word>
+  <word>salvio</word>
   <word>sam's</word>
+  <word>sandcrawler</word>
+  <word>sanentur</word>
   <word>sangraal</word>
   <word>sangrail</word>
   <word>sanir</word>
@@ -2916,6 +3056,7 @@
   <word>seatac</word>
   <word>seberus</word>
   <word>sebrus</word>
+  <word>sectumsempra</word>
   <word>secu</word>
   <word>sedgewick</word>
   <word>seevis</word>
@@ -2938,6 +3079,7 @@
   <word>septenary</word>
   <word>septillion</word>
   <word>sepulchre</word>
+  <word>serpensortia</word>
   <word>serpico</word>
   <word>serrakin</word>
   <word>sesh</word>
@@ -3041,6 +3183,7 @@
   <word>s'mores</word>
   <word>smush</word>
   <word>smushy</word>
+  <word>snackboxes</word>
   <word>snakehead</word>
   <word>snarky</word>
   <word>snickerdoodle</word>
@@ -3066,6 +3209,7 @@
   <word>son'a</word>
   <word>son'a's</word>
   <word>sonodanite</word>
+  <word>sonorus</word>
   <word>soong</word>
   <word>soong's</word>
   <word>sora</word>
@@ -3084,6 +3228,7 @@
   <word>sparkage</word>
   <word>spaz</word>
   <word>speakin</word>
+  <word>specky</word>
   <word>spectograph</word>
   <word>spectrally</word>
   <word>spectrocity</word>
@@ -3094,6 +3239,7 @@
   <word>spidey</word>
   <word>spinny</word>
   <word>splendored</word>
+  <word>splinched</word>
   <word>sporks</word>
   <word>sprach</word>
   <word>sprock</word>
@@ -3119,6 +3265,7 @@
   <word>starships</word>
   <word>starsky</word>
   <word>startin</word>
+  <word>statum</word>
   <word>stec</word>
   <word>steenburgen</word>
   <word>steveston</word>
@@ -3160,6 +3307,7 @@
   <word>subversions</word>
   <word>subvocal</word>
   <word>subwarp</word>
+  <word>subwoofer</word>
   <word>subwoofers</word>
   <word>sucky</word>
   <word>sudaria</word>
@@ -3257,6 +3405,7 @@
   <word>targ</word>
   <word>tarkman</word>
   <word>tarrisite</word>
+  <word>tartare</word>
   <word>tartarus</word>
   <word>tarthus</word>
   <word>tased</word>
@@ -3302,6 +3451,7 @@
   <word>telomeres</word>
   <word>telsat</word>
   <word>teltak</word>
+  <word>temporus</word>
   <word>tenat</word>
   <word>tenera</word>
   <word>teneran</word>
@@ -3338,6 +3488,7 @@
   <word>thermosensitive</word>
   <word>thermosphere</word>
   <word>thessara</word>
+  <word>thestral</word>
   <word>thetys</word>
   <word>thilana</word>
   <word>thingie</word>
@@ -3392,6 +3543,7 @@
   <word>tonok</word>
   <word>toon</word>
   <word>toplessness</word>
+  <word>topsy</word>
   <word>toriel</word>
   <word>torrell</word>
   <word>torrell's</word>
@@ -3474,6 +3626,7 @@
   <word>turboshaft</word>
   <word>turghan</word>
   <word>turkanese</word>
+  <word>turvy</word>
   <word>tuttleroot</word>
   <word>twistedly</word>
   <word>tyman</word>
@@ -3533,11 +3686,13 @@
   <word>unmoored</word>
   <word>unneighborly</word>
   <word>unpowered</word>
+  <word>unriddled</word>
   <word>unsalvageable</word>
   <word>unsavvy</word>
   <word>unshield</word>
   <word>unspools</word>
   <word>unstick</word>
+  <word>unstopper</word>
   <word>untrainable</word>
   <word>unviable</word>
   <word>unwashable</word>
@@ -3600,6 +3755,8 @@
   <word>ventrell</word>
   <word>ver</word>
   <word>verenna</word>
+  <word>vergence</word>
+  <word>veritaserum</word>
   <word>verite</word>
   <word>vérite</word>
   <word>veriunte</word>
@@ -3612,6 +3769,7 @@
   <word>verterium</word>
   <word>verteron</word>
   <word>vertion</word>
+  <word>verto</word>
   <word>vesina</word>
   <word>vette</word>
   <word>vian</word>
@@ -3628,6 +3786,7 @@
   <word>villosa</word>
   <word>vin</word>
   <word>vincristine</word>
+  <word>vipera</word>
   <word>viridium</word>
   <word>virotherapy</word>
   <word>viroxic</word>
@@ -3659,6 +3818,7 @@
   <word>vox</word>
   <word>vr</word>
   <word>vu</word>
+  <word>vulnera</word>
   <word>vx</word>
   <word>vy</word>
   <word>w</word>
@@ -3670,6 +3830,7 @@
   <word>walesco</word>
   <word>walkie</word>
   <word>walkin</word>
+  <word>wandlore</word>
   <word>warbird</word>
   <word>warcraft</word>
   <word>warfarin</word>
@@ -3752,6 +3913,7 @@
   <word>you'd've</word>
   <word>yowzers</word>
   <word>yu</word>
+  <word>yumpy</word>
   <word>yu's</word>
   <word>z</word>
   <word>zaddik</word>

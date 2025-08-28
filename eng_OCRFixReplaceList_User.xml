@@ -427,6 +427,12 @@
     <Word from="§" to="♪" />
     <Word from="ond" to="on ♪" />
     <Word from="Nifio" to="Niño" />
+    <Word from="quarrelling" to="quarreling" />
+    <Word from="Woo0" to="Woo" />
+    <Word from="tightknit" to="tight knit" />
+    <Word from="wandmaker" to="wand maker" />
+    <Word from="lego" to="Iego" />
+    <Word from="audiocassette" to="audio cassette" />
   </WholeWords>
   <PartialLines />
   <BeginLines />
@@ -454,6 +460,7 @@
     <Line from="S Come ond" to="♪ Come on ♪" />
     <Line from="S Come on, I've been waiting for you J" to="♪ Come on, I've been waiting for you ♪" />
     <Line from="g Qur time has come&#xD;&#xA;Set it off I" to="♪ Our time has come&#xD;&#xA;Set it off ♪" />
+    <Line from="J Stay, stay I" to="♪ Stay, stay ♪" />
   </WholeLines>
   <RegularExpressions />
   <RemovedWholeWords />
