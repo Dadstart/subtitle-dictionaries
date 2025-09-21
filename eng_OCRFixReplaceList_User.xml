@@ -433,6 +433,8 @@
     <Word from="wandmaker" to="wand maker" />
     <Word from="lego" to="Iego" />
     <Word from="audiocassette" to="audio cassette" />
+    <Word from="samaritan" to="Samaritan" />
+    <Word from="man1" to="man 1" />
   </WholeWords>
   <PartialLines />
   <BeginLines />
@@ -461,6 +463,7 @@
     <Line from="S Come on, I've been waiting for you J" to="♪ Come on, I've been waiting for you ♪" />
     <Line from="g Qur time has come&#xD;&#xA;Set it off I" to="♪ Our time has come&#xD;&#xA;Set it off ♪" />
     <Line from="J Stay, stay I" to="♪ Stay, stay ♪" />
+    <Line from="S Come ond" to="♪ Come on ♪" />
   </WholeLines>
   <RegularExpressions />
   <RemovedWholeWords />
