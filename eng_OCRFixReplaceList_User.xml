@@ -435,6 +435,10 @@
     <Word from="audiocassette" to="audio cassette" />
     <Word from="samaritan" to="Samaritan" />
     <Word from="man1" to="man 1" />
+    <Word from="Nazgdl" to="Nazgûl" />
+    <Word from="Luthien" to="Lúthien" />
+    <Word from="Numenor" to="Númenor" />
+    <Word from="Gldin" to="Glóin" />
   </WholeWords>
   <PartialLines />
   <BeginLines />
