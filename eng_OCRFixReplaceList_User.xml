@@ -1,99 +1,8 @@
 <ReplaceList>
   <WholeWords>
     <Word from="isOdyssey" to="is Odyssey" />
-    <Word from="HAHA" to="HA HA" />
-    <Word from="FORTEALC" to="FOR TEAL'C" />
-    <Word from="O'NEILLS" to="O'NEILL'S" />
-    <Word from="ITIS" to="IT IS" />
-    <Word from="IWOULD" to="I WOULD" />
-    <Word from="BACKTO" to="BACK TO" />
-    <Word from="5G" to="SG" />
-    <Word from="ITURNED" to="I TURNED" />
-    <Word from="TEALC" to="TEAL'C" />
-    <Word from="TH|S" to="THIS" />
-    <Word from="CHAPPA'AL" to="CHAPPA'AI" />
-    <Word from="SHOL'VATEALC" to="SHOL'VA TEALC" />
-    <Word from="JAFFATEALC" to="JAFFA TEAL'C" />
-    <Word from="SOTHE" to="SO THE" />
-    <Word from="THANKYOU" to="THANK YOU" />
-    <Word from="O'NEILLIS" to="O'NEILL IS" />
-    <Word from="ITWON'T" to="IT WON'T" />
-    <Word from="ATACTIC" to="A TACTIC" />
-    <Word from="O'NEILLWILL" to="O'NEILL WILL" />
-    <Word from="DALLASIS" to="DALLAS IS" />
-    <Word from="ORWE" to="OR WE" />
-    <Word from="TOTHIS" to="TO THIS" />
-    <Word from="BACKTHROUGH" to="BACK THROUGH" />
-    <Word from="KELNOR'REEM" to="KEL'NOR'REEM" />
-    <Word from="COLMAH" to="COL'MAH" />
-    <Word from="ATHING" to="A THING" />
-    <Word from="AMTHE" to="AM THE" />
-    <Word from="ISWITH" to="IS WITH" />
-    <Word from="AVISION" to="A VISION" />
-    <Word from="TELLMAH" to="TELL'MAH" />
-    <Word from="ATECHNOLOGY" to="A TECHNOLOGY" />
-    <Word from="IWENT" to="I WENT" />
-    <Word from="ATEAM" to="A TEAM" />
-    <Word from="ATIME" to="A TIME" />
-    <Word from="FIXIT" to="FIX IT" />
-    <Word from="THEYCOULDN'T" to="THEY COULDN’T" />
-    <Word from="SOTHIS" to="SO THIS" />
-    <Word from="SCHAKKAIS" to="SCHAKKA IS" />
-    <Word from="KAMEANS" to="KA MEANS" />
-    <Word from="NANIS" to="NAN IS" />
-    <Word from="NECKPIECE" to="NECK PIECE" />
-    <Word from="UAYV" to="UAV" />
-    <Word from="FAC2ADE" to="FACADE" />
-    <Word from="DIGTOO" to="DIG TOO" />
-    <Word from="SOGOING" to="SO GOING" />
-    <Word from="LASTRITE" to="LAST RITE" />
-    <Word from="KEKTAL" to="KEK TAL" />
-    <Word from="DOWITH" to="DO WITH" />
-    <Word from="FORYOU" to="FOR YOU" />
-    <Word from="HEWERE" to="HE WERE" />
-    <Word from="TOTELL" to="TO TELL" />
-    <Word from="GETTO" to="GET TO" />
-    <Word from="TEALC'S" to="TEAL'C'S" />
-    <Word from="ORTO" to="OR TO" />
-    <Word from="THINKIT'S" to="THINK IT’S" />
-    <Word from="CA4" to="C4" />
-    <Word from="NOWCAN" to="NOW CAN" />
-    <Word from="OURSELVESCLEAR" to="OURSELVES CLEAR" />
-    <Word from="FORIT" to="FOR IT" />
-    <Word from="ENTRANCEWAY" to="ENTRANCE WAY" />
-    <Word from="ITEST" to="I TEST" />
-    <Word from="IRISLIKE" to="IRIS LIKE" />
-    <Word from="SIMILARTO" to="SIMILAR TO" />
-    <Word from="SENTTHE" to="SENT THE" />
-    <Word from="ORTHEY" to="OR THEY" />
-    <Word from="ASKYOU" to="ASK YOU" />
-    <Word from="TALKTO" to="TALK TO" />
-    <Word from="JUSTTO" to="JUST TO" />
     <Word from="|" to="I" />
-    <Word from="CALLTHE" to="CALL THE" />
-    <Word from="JOLENAR" to="JOLINAR" />
-    <Word from="ITWOULD" to="IT WOULD" />
-    <Word from="ITHINK" to="I THINK" />
-    <Word from="ITTO" to="IT TO" />
-    <Word from="ATWORMHOLE" to="AT WORMHOLE" />
-    <Word from="FORTHE" to="FOR THE" />
-    <Word from="AWASTE" to="A WASTE" />
-    <Word from="ITWOULDN'T" to="IT WOULDN’T" />
-    <Word from="TEAL'CIS" to="TEAL'C IS" />
-    <Word from="AREYOU" to="ARE YOU" />
-    <Word from="BASECAMP" to="BASE CAMP" />
-    <Word from="ASKTHE" to="ASK THE" />
-    <Word from="FORTWO" to="FOR TWO" />
-    <Word from="APPEARTO" to="APPEAR TO" />
-    <Word from="MEWITH" to="ME WITH" />
-    <Word from="HIMIN" to="HIM IN" />
-    <Word from="ISTEALC" to="IS TEAL'C" />
     <Word from="11S" to="1 IS" />
-    <Word from="ONSTARGATE" to="ON STARGATE" />
-    <Word from="PROMETHEUSIS" to="PROMETHEUS IS" />
-    <Word from="TRANSPORTSEBRUS" to="TRANSPORT SEBRUS" />
-    <Word from="TEALCIS" to="TEAL'C IS" />
-    <Word from="ALPHASITE" to="ALPHA SITE" />
     <Word from="theSeberus" to="the Seberus" />
     <Word from="P55117" to="P5S 117" />
     <Word from="P551177" to="P5S 117" />
@@ -194,9 +103,6 @@
     <Word from="thechaapa'ai" to="the chaapa'ai" />
     <Word from="symbiant" to="symbiont" />
     <Word from="hisPrim'ta" to="his Prim'ta" />
-    <Word from="NAQUITA" to="NAQUADAH" />
-    <Word from="RAGNOROCK" to="RAGNAROK" />
-    <Word from="MEINFATHER" to="MEIN FATHER" />
     <Word from="TheDestiny" to="The Destiny" />
     <Word from="Destiny'smission" to="Destiny’s mission" />
     <Word from="Destiny'smaster" to="Destiny’s master" />
@@ -223,21 +129,6 @@
     <Word from="Destiny'smedical" to="Destiny’s medical" />
     <Word from="Destiny'snormal" to="Destiny’s normal" />
     <Word from="Destiny'spath" to="Destiny’s path" />
-    <Word from="ASGUARD" to="ASGARD" />
-    <Word from="ASGUARDS" to="ASGARDS" />
-    <Word from="ISTHE" to="IS THE" />
-    <Word from="CHAPP'Al" to="CHAPP'AI" />
-    <Word from="THINKYOUR" to="THINK YOUR" />
-    <Word from="LYNNEA" to="LINNEA" />
-    <Word from="LYNNEA'S" to="LINNEA'S" />
-    <Word from="BYNARR" to="BYNAR" />
-    <Word from="BYNARR'S" to="BYNAR'S" />
-    <Word from="SNAKEHEADS" to="SNAKE HEADS" />
-    <Word from="TEALCWOULD" to="TEAL'C WOULD" />
-    <Word from="OPTRICIAN" to="OPTRICAN" />
-    <Word from="OPTRICIANS" to="OPTRICANS" />
-    <Word from="THEBELISKNOR" to="THE BELISKNOR" />
-    <Word from="OPTRICIA" to="OPTRICA" />
     <Word from="I’'m" to="I'm" />
     <Word from="1t" to="It" />
     <Word from="ISTEAL'C" to="IS TEAL'C" />
@@ -255,7 +146,6 @@
     <Word from="|I" to="II" />
     <Word from="lll" to="III" />
     <Word from="dilitthium" to="dilithium" />
-    <Word from="PICKARD" to="PICARD" />
     <Word from="fagade" to="façade" />
     <Word from="tricoder" to="tricorder" />
     <Word from="Il" to="II" />
@@ -278,7 +168,6 @@
     <Word from="lyar" to="Iyar" />
     <Word from="lyaarans" to="Iyaarans" />
     <Word from="ltis" to="lt is" />
-    <Word from="WOREF" to="WORF" />
     <Word from="brainstem" to="brain stem" />
     <Word from="hiccupping" to="hiccuping" />
     <Word from="N/fio" to="Niño" />
@@ -439,6 +328,19 @@
     <Word from="Luthien" to="Lúthien" />
     <Word from="Numenor" to="Númenor" />
     <Word from="Gldin" to="Glóin" />
+    <Word from="Smeéagol's" to="Sméagol's" />
+    <Word from="Lothlérien" to="Lothlórien" />
+    <Word from="Gléin" to="Glóin" />
+    <Word from="hai" to="Hai" />
+    <Word from="Earendil" to="Eärendil" />
+    <Word from="Lorien" to="Lórien" />
+    <Word from="Eothain" to="Éothain" />
+    <Word from="Eomer" to="Éomer" />
+    <Word from="Grima" to="Gríma" />
+    <Word from="ddr" to="dûr" />
+    <Word from="Eowyn" to="Éowyn" />
+    <Word from="Simbelmyné" to="Simbelmynë" />
+    <Word from="Dunedain" to="Dúnedain" />
   </WholeWords>
   <PartialLines />
   <BeginLines />
