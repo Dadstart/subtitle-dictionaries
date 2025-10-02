@@ -341,6 +341,12 @@
     <Word from="Eowyn" to="Éowyn" />
     <Word from="Simbelmyné" to="Simbelmynë" />
     <Word from="Dunedain" to="Dúnedain" />
+    <Word from="EOWYN" to="ÉOWYN" />
+    <Word from="Hama" to="Háma" />
+    <Word from="Nazgal" to="Nazgûl" />
+    <Word from="dir" to="dûr" />
+    <Word from="Nazgul" to="Nazgûl" />
+    <Word from="Undomiel" to="Undómiel" />
   </WholeWords>
   <PartialLines />
   <BeginLines />
