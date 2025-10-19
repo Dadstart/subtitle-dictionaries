@@ -458,6 +458,9 @@
     <Word from="dir" to="dûr" />
     <Word from="Nazgul" to="Nazgûl" />
     <Word from="Undomiel" to="Undómiel" />
+    <Word from="THEODEN" to="THÉODEN" />
+    <Word from="Edrendil" to="Eädrendil" />
+    <Word from="EOMER" to="ÉOMER" />
   </WholeWords>
   <PartialLines />
   <BeginLines />
