@@ -433,6 +433,34 @@
     <Word from="wandmaker" to="wand maker" />
     <Word from="lego" to="Iego" />
     <Word from="audiocassette" to="audio cassette" />
+    <Word from="samaritan" to="Samaritan" />
+    <Word from="man1" to="man 1" />
+    <Word from="Nazgdl" to="Nazgûl" />
+    <Word from="Luthien" to="Lúthien" />
+    <Word from="Numenor" to="Númenor" />
+    <Word from="Gldin" to="Glóin" />
+    <Word from="Smeéagol's" to="Sméagol's" />
+    <Word from="Lothlérien" to="Lothlórien" />
+    <Word from="Gléin" to="Glóin" />
+    <Word from="hai" to="Hai" />
+    <Word from="Earendil" to="Eärendil" />
+    <Word from="Lorien" to="Lórien" />
+    <Word from="Eothain" to="Éothain" />
+    <Word from="Eomer" to="Éomer" />
+    <Word from="Grima" to="Gríma" />
+    <Word from="ddr" to="dûr" />
+    <Word from="Eowyn" to="Éowyn" />
+    <Word from="Simbelmyné" to="Simbelmynë" />
+    <Word from="Dunedain" to="Dúnedain" />
+    <Word from="EOWYN" to="ÉOWYN" />
+    <Word from="Hama" to="Háma" />
+    <Word from="Nazgal" to="Nazgûl" />
+    <Word from="dir" to="dûr" />
+    <Word from="Nazgul" to="Nazgûl" />
+    <Word from="Undomiel" to="Undómiel" />
+    <Word from="THEODEN" to="THÉODEN" />
+    <Word from="Edrendil" to="Eädrendil" />
+    <Word from="EOMER" to="ÉOMER" />
   </WholeWords>
   <PartialLines />
   <BeginLines />
@@ -461,6 +489,7 @@
     <Line from="S Come on, I've been waiting for you J" to="♪ Come on, I've been waiting for you ♪" />
     <Line from="g Qur time has come&#xD;&#xA;Set it off I" to="♪ Our time has come&#xD;&#xA;Set it off ♪" />
     <Line from="J Stay, stay I" to="♪ Stay, stay ♪" />
+    <Line from="S Come ond" to="♪ Come on ♪" />
   </WholeLines>
   <RegularExpressions />
   <RemovedWholeWords />
